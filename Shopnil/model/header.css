@@ -1,0 +1,11 @@
+.nav_bar{
+    list-style-type: none;
+    margin: 0; padding: 0;
+}
+.nav{
+    background-color : aquamarine; 
+    height: 50px; width : 100%;
+}
+.top{
+    background-color: blue;
+}
